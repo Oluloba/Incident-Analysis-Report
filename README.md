@@ -18,4 +18,4 @@ This project involves analyzing network traffic captured in `traffic-analysis.pc
 Provided detailed insights into network behavior, identified potential threats, and recommended security improvements.
 
 ## Full Report  
-The complete Incident Analysis Report is available here: [Incident Analysis Report](./traffic-analysis-report.pdf)
+The complete Incident Analysis Report is available here: [Incident Analysis Report](./traffic_analysis_report.pdf)
